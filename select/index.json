@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "キミのことが好きなわたしが好き",
+  "base_artist": "櫻井優衣",
+  "createdAt": "2026-01-05T06:08:11.232350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キミのことが好きなわたしが好き",
+      "artist": "櫻井優衣",
+      "has_synced": true,
+      "path": "select/01_キミのことが好きなわたしが好き_櫻井優衣.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キミのことが好きなわたしが好き",
+      "artist": "櫻井優衣",
+      "has_synced": false,
+      "path": "select/pl_01_キミのことが好きなわたしが好き_櫻井優衣.txt"
+    }
+  ]
+}
